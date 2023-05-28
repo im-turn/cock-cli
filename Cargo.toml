@@ -5,7 +5,7 @@ description = "CLI for `cock-lib`"
 license = "MIT"
 edition = '2021'
 authors = ["turn"]
-keywords = ["cocks", "penis", "anatomy", "tier", "ranking"]
+keywords = ["cock", "cocks", "cli"]
 repository = "https://github.com/im-turn/cock-cli"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
