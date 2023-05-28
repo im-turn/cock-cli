@@ -3,12 +3,12 @@ name = "cock-cli"
 version = "1.0.0"
 description = "CLI for `cock-lib`"
 license = "MIT"
-edition.workspace = true
-authors.workspace = true
-keywords.workspace = true
+edition = 2021
+authors = ["turn"]
+keywords = ["cocks", "penis", "anatomy", "tier", "ranking"]
 repository = "https://github.com/im-turn/cock-cli"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cock-lib.workspace = true
+cock-lib = "1.0.0"
