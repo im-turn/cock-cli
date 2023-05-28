@@ -1,6 +1,6 @@
 # Turn's Cock Tier Evaluator :chicken: :trophy:
 
-CLI front-end for [cock-lib](https://github.com/im-turn/cock-lib)i
+CLI front-end for [cock-lib](https://crates.io/cratescock-lib)
 
 ## License :clipboard: :briefcase:
 
