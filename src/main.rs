@@ -1,7 +1,7 @@
-use cock_lib::bin_modules::standard_prompt;
+use cock_cli::cock_handler_build;
 
 fn main() {
-    let handler = standard_prompt::cock_handler_build();
+    let handler = cock_handler_build();
 
     println!("{}", handler)
 }
