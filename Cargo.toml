@@ -11,4 +11,4 @@ repository = "https://github.com/im-turn/cock-cli"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cock-lib = "2.1.0"
+cock-lib = "2.2.0"
